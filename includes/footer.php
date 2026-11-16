@@ -1,0 +1,1 @@
+</main><footer><div class="container">© <?php echo date("Y"); ?> AutoCare Vehicle Service Management Portal</div></footer></body></html>
